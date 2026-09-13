@@ -5,6 +5,9 @@ carapace, indoor enclosure with coco-coir/mulch substrate). Goal: hold his
 daily ~250g of endive in one place, off the substrate, without him
 scattering leaves into the sediment while he eats.
 
+![Isometric preview](../output/preview_iso.png)
+![Dimensions](../output/dimensions.png)
+
 ## Design
 
 - **Floor disc**: 260mm diameter, 4mm thick. Sits directly on the substrate
